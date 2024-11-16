@@ -1,4 +1,6 @@
 ## Hi there 👋
+i am a backend developer and I gained valuable skills in creating and maintaining the server side of web applications, the backend architecture of software systems, and implementing APIs to ensure optimal application
+performance.
 
 <!--
 **HudaEsam/HudaEsam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
